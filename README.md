@@ -1,3 +1,3 @@
 # java_ecommerce
 niit project
-core java concepts
+A simple e commerce website in java using frameworks like spring mvc and maven 
